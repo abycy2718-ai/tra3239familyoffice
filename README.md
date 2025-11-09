@@ -3,7 +3,7 @@
 This repository contains the website for the Hong Kong Family Office Hub.
 
 ## Live Site
-View the live website at: https://abycy2718-ai.github.io/familyoffice/
+View the live website at: https://abycy2718-ai.github.io/tra3239familyoffice/
 
 ## About
 A bilingual website showcasing Hong Kong's position as Asia's premier family office destination.
